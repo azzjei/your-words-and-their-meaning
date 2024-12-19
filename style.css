@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(154, 180, 193);
+}
+
+.flake {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(154, 180, 193);
+}
+
+h4 {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(238, 238, 238); 
+}
